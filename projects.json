@@ -1,0 +1,42 @@
+{
+  "sections": [
+    {
+      "id": "ai",
+      "title": "AI",
+      "blurb": "Automation, Creative ML, and Vibe coding.",
+      "placeholderLogo": "assets/placeholders/ai-placeholder.svg",
+      "items": [
+        {
+          "name": "Varun Anand Portfolio",
+          "description": "The website you are currently on is completely built using vibe coding techniques. Pretty impressive, right?",
+          "logo": "assets/Varun Anand Logo-light.png",
+          "link": "index.html"
+        },
+        {
+          "name": "Landing page revamp",
+          "description": "Stardom Books' website got a makeover with vibe coding, enhancing user experience and boosting engagement.",
+          "logo": "assets/stardombooks.png",
+          "link": "https://starleaderprotocol.com/"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "title": "Film",
+      "blurb": "Shorts, reels, and vibrant masterpieces.",
+      "placeholderLogo": "assets/placeholders/film-placeholder.svg",
+      "items": [
+        {
+          
+        }
+      ]
+    },
+    {
+      "id": "apps",
+      "title": "Apps",
+      "blurb": "Products, tools, and utilities.",
+      "placeholderLogo": "assets/placeholders/apps-placeholder.svg",
+      "items": []
+    }
+  ]
+}
