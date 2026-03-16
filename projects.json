@@ -17,7 +17,14 @@
           "description": "Stardom Books' website got a makeover with vibe coding, enhancing user experience and boosting engagement.",
           "logo": "assets/stardombooks.png",
           "link": "https://starleaderprotocol.com/"
+        },
+        {
+          "name": "Created a semi-cms",
+          "description": "I created a semi-cms using .json files, js, and github to make the projects in this page automatically update, rather than me reuploading files",
+          "logo": "https://drive.google.com/file/d/1mti9q1bGWpeMoxA04zikz49t7o35lXDB/view?usp=sharing",
+          "link": "https://github.com/FireDrop2668/project-data"
         }
+        
       ]
     },
     {
