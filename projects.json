@@ -23,13 +23,13 @@
           "description": "I created a semi-cms using .json files, js, and github to make the projects in this page automatically update, rather than me reuploading files",
           "logo": "https://firedrop2668.github.io/project-data/database.png",
           "link": "https://github.com/FireDrop2668/project-data"
-        }
+        },
          {
           "name": "n8n workflow",
           "description": "I created a n8n workflow for my dad that automatically takes the emails from his spreadsheet, customizes it, and sends an email to the person at random intervals of time.",
           "logo": "https://firedrop2668.github.io/project-data/n8nlogo.png",
           "link": ""
-        },
+        }
         
       ]
     },
