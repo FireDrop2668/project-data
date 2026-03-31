@@ -49,7 +49,14 @@
       "title": "Apps",
       "blurb": "Products, tools, and utilities.",
       "placeholderLogo": "assets/placeholders/apps-placeholder.svg",
-      "items": []
+      "items": [
+         {
+          "name": "Recurr",
+          "description": "An app that auto tracks your subscriptions, and it has AI that analyzes your subscriptions and gives advice.",
+          "logo": "https://firedrop2668.github.io/project-data/recurr-light.png"",
+          "link": "https://example.com/app-store-link-to-be-added"
+        }
+      ]
     }
   ]
 }
