@@ -7,18 +7,6 @@
       "placeholderLogo": "assets/placeholders/ai-placeholder.svg",
       "items": [
         {
-          "name": "Varun Anand Portfolio",
-          "description": "The website you are currently on is completely built using vibe coding techniques. Pretty impressive, right?",
-          "logo": "assets/Varun Anand Logo-light.png",
-          "link": "index.html"
-        },
-        {
-          "name": "Landing page revamp",
-          "description": "Stardom Books' website got a makeover with vibe coding, enhancing user experience and boosting engagement.",
-          "logo": "assets/stardombooks.png",
-          "link": "https://starleaderprotocol.com/new"
-        },
-        {
           "name": "Created a mini-cms",
           "description": "I created a semi-cms using .json files, js, and github to make the projects in this page automatically update, rather than me reuploading files",
           "logo": "https://firedrop2668.github.io/project-data/database.png",
@@ -35,7 +23,7 @@
     },
     {
       "id": "websites",
-      "title": "websites",
+      "title": "Websites",
       "blurb": "All the cool website I've made",
       "placeholderLogo": "assets/placeholders/ai-placeholder.svg",
       "items": [
@@ -53,15 +41,22 @@
         },
         {
           "name": "Figo's landing page",
-          "description": "I create a modern 3dish, with custom cursor and animations using Next.js for my App brand Figo. Check it out!",
+          "description": "I created a modern 3dish, with custom cursor and animations using Next.js for my App brand Figo. Check it out!",
           "logo": "https://figoapp.net/assets/figoicon.png",
           "link": "https://figoapp.net"
         },
+        
          {
           "name": "Recurrs landing page",
           "description": "Recurrs landing page is a modern website made for getting information about the subscription tracker Recurrs, Check it out today",
           "logo": "https://firedrop2668.github.io/project-data/recurr-light.png",
           "link": "https://figoapp.net/recurr/recurr.html"
+        },
+         {
+          "name": "Guesstrack's Landing Page",
+          "description": "Guesstrack's landing page is a modern website made for getting information about the music guessing game Guesstrack, Check it out today",
+          "logo": "https://firedrop2668.github.io/project-data/guesstrack.png",
+          "link": "https://figoapp.net"
         }
         
       ]
